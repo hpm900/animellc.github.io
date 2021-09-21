@@ -1,6 +1,5 @@
-## chào mừng các bạn đã đến với yushichi vn llc
-
-You can use the [editor on GitHub](https://github.com/hpm900/yushichivn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## chào mừng các bạn đã đến với yushichi vn
+Hãy trải nghiệm ngay [Open YT](https://youtube.com/channel/UCi673mvMOES9yBOaGT4T_Vw) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
