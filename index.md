@@ -1,5 +1,5 @@
 ## chào mừng các bạn đã đến với yushichi vn
-Hãy trải nghiệm ngay [Open YT](https://youtube.com/channel/UCi673mvMOES9yBOaGT4T_Vw) to maintain and preview the content for your website in Markdown files.
+Hãy trải nghiệm ngay [Open YT](https://youtube.com/channel/UCi673mvMOES9yBOaGT4T_Vw) đây là trang web demo giới thiệu về web của tụi mình
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
